@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\ConsoleApp1\\GereciadorDeAniversarios.csproj": {}
+  },
+  "projects": {
+    "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\BancoDeDados_em_arquivo\\BancoDeDadosArquivo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\BancoDeDados_em_arquivo\\BancoDeDadosArquivo.csproj",
+        "projectName": "BancoDeDadosArquivo",
+        "projectPath": "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\BancoDeDados_em_arquivo\\BancoDeDadosArquivo.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\BancoDeDados_em_arquivo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\PessoasModel\\PessoasModel.csproj": {
+                "projectPath": "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\PessoasModel\\PessoasModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\ConsoleApp1\\GereciadorDeAniversarios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\ConsoleApp1\\GereciadorDeAniversarios.csproj",
+        "projectName": "GereciadorDeAniversarios",
+        "projectPath": "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\ConsoleApp1\\GereciadorDeAniversarios.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\BancoDeDados_em_arquivo\\BancoDeDadosArquivo.csproj": {
+                "projectPath": "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\BancoDeDados_em_arquivo\\BancoDeDadosArquivo.csproj"
+              },
+              "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\PessoasModel\\PessoasModel.csproj": {
+                "projectPath": "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\PessoasModel\\PessoasModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\PessoasModel\\PessoasModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\PessoasModel\\PessoasModel.csproj",
+        "projectName": "PessoasModel",
+        "projectPath": "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\PessoasModel\\PessoasModel.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "E:\\Users\\Matheus\\Desktop\\BLOCO DE .NET C#\\Matheus_Matos_TP3\\ConsoleApp1\\PessoasModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
